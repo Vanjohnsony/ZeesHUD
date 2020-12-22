@@ -17,7 +17,7 @@ Scheme
 		// Crosshair Colors
 		//		Affects the custom HUD crosshair.
 		//---------------------------------------------
-		"Crosshair"					"255 255 255 255"
+		"Crosshair"					"50 205 50 255"
 		"CrosshairDamage"			"255 0 0 255"
 		
 		//---------------------------------------------
